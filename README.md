@@ -70,6 +70,20 @@ The installer will:
 | Google TTS | Excellent | Internet connection |
 | System Voice | Good | Works offline |
 
+### Supported Languages
+
+**Google TTS** supports 100+ languages including:
+- English (US, UK, AU, IN)
+- Spanish (ES, MX, AR)
+- French (FR, CA)
+- German, Italian, Portuguese
+- Chinese (Mandarin, Cantonese)
+- Japanese, Korean
+- Arabic, Hindi, Russian
+- And many more regional variants
+
+**System Voice** language support depends on your Linux distribution's installed TTS packages (typically espeak/festival).
+
 ## Testing
 
 ```bash
