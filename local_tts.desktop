@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Local TTS
+GenericName=Text-to-Speech
+Comment=High-quality local text-to-speech with system tray integration
+Exec=python3 /home/ubuntu/projects/tts-native-extension/local_tts_launcher.py
+Icon=/home/ubuntu/projects/tts-native-extension/tts_image.png
+Terminal=false
+Categories=Accessibility;AudioVideo;Audio;Utility;
+Keywords=TTS;text-to-speech;accessibility;voice;speak;read;local;
+StartupNotify=true
+NoDisplay=false
+Path=/home/ubuntu/projects/tts-native-extension

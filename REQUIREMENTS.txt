@@ -1,0 +1,11 @@
+# Local TTS - Requirements
+pyttsx3>=2.90
+gtts>=2.0.0
+pygame>=2.0.0
+pyperclip>=1.8.0
+pynput>=1.7.0
+
+# Optional for better system integration:
+# zenity (system dialogs)
+# mpg123 (MP3 playback)
+# libnotify-bin (desktop notifications)
